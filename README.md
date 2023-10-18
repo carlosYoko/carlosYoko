@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./backgroundimage.jpg">
 </p>
-# ¡Hola, soy Carlos! 👋
+¡Hola, soy Carlos! 👋
 
 Soy un estudiante apasionado de la programación y actualmente me encuentro aprendiendo y trabajando con el stack MERN (MongoDB, Express.js, React.js y Node.js).
 
@@ -9,7 +9,8 @@ Soy un estudiante apasionado de la programación y actualmente me encuentro apre
 
 #### Front-End
 
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
+- <a href="https://www.mozilla.org/es-ES/" target="_blank">![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)</a>
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 - ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
