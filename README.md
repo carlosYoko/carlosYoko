@@ -10,31 +10,30 @@ Soy un estudiante apasionado de la programación y actualmente me encuentro apre
 #### Front-End
 
 - [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
-- <a href="https://www.mozilla.org/es-ES/" target="_blank">![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)</a>
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-- ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-- ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux)
+- [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://www.w3.org/Style/CSS/Overview.en.html)
+- [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://reactjs.org/)
+- [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux)](https://redux.js.org/)
 
 #### Back-End
 
-- ![Node.js](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
-- ![Express.js](https://img.shields.io/badge/-Expressjs-black?style=flat&logo=express)
+- [![Node.js](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)](https://nodejs.org/)
+- [![Express.js](https://img.shields.io/badge/-Expressjs-black?style=flat&logo=express)](https://expressjs.com/)
 
 #### Bases de Datos
 
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
-- ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
+- [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)](https://www.mongodb.com/)
+- [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)](https://mariadb.org/)
+- [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
 
 #### Control de Versiones
 
-- ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+- [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://git-scm.com/)
+- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/)
 
 #### Gestión de Paquetes
 
-- ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+- [![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/)
 
 ## Proyectos
 
