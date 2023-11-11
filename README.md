@@ -17,6 +17,7 @@ Soy un estudiante apasionado de la programación y actualmente me encuentro apre
 
 #### Back-End
 
+- [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 - [![Node.js](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)](https://nodejs.org/)
 - [![Express.js](https://img.shields.io/badge/-Expressjs-black?style=flat&logo=express)](https://expressjs.com/)
 
@@ -26,6 +27,10 @@ Soy un estudiante apasionado de la programación y actualmente me encuentro apre
 - [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)](https://mariadb.org/)
 - [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
 
+#### Testing
+
+- [![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white")](https://jestjs.io/)
+
 #### Control de Versiones
 
 - [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://git-scm.com/)
@@ -34,6 +39,7 @@ Soy un estudiante apasionado de la programación y actualmente me encuentro apre
 #### Gestión de Paquetes
 
 - [![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/)
+
 
 ## Proyectos
 
