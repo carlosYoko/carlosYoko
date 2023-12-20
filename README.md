@@ -51,4 +51,4 @@ Puedes ver la aplicación en vivo [aquí](https://book-store-frontend-tan.vercel
 
 Puedes encontrarme en:
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/carlosYoko) [![Codewars](https://img.shields.io/badge/Codewars-181717?style=flat&logo=codewars&logoColor=CB3837)](https://www.codewars.com/users/carlosYoko)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-fullstack-dev) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/carlosYoko) [![Codewars](https://img.shields.io/badge/Codewars-181717?style=flat&logo=codewars&logoColor=CB3837)](https://www.codewars.com/users/carlosYoko)
