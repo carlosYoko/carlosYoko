@@ -1,8 +1,8 @@
 
 <p align="center">
-  <img src="./images/frontpage.png">
+  <img src="./front.png">
 </p>
-¡Hola, soy Carlos! 👋
+¡Hola! 👋
 
 Soy un desarrollador apasionado de la programación y actualmente me encuentro trabajando con el stack MERN (MongoDB, Express.js, React.js y Node.js).
 
