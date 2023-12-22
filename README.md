@@ -2,7 +2,7 @@
 <p align="center">
   <img src="./front.png">
 </p>
-¡Hola! 👋
+¡Hola, soy Carlos! 👋
 
 Soy un desarrollador apasionado de la programación y actualmente me encuentro trabajando con el stack MERN (MongoDB, Express.js, React.js y Node.js).
 
