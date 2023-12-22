@@ -51,5 +51,7 @@ Puedes ver la aplicación en vivo [aquí](https://book-store-frontend-tan.vercel
 
 Puedes encontrarme en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-fullstack-dev) [![CodeWars](https://www.codewars.com/users/carlosYoko/badges/micro)](https://www.codewars.com/users/carlosYoko)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-fullstack-dev) [![CodeWars](https://www.codewars.com/users/carlosYoko/badges/micro)](https://www.codewars.com/users/carlosYoko) [![Microsoft Learn](https://img.shields.io/badge/Microsoft-Learn-blue?style=flat-square&logo=microsoft-learn)](https://learn.microsoft.com/es-es/users/cgimenez-dev/)
+
+
 
