@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./backgroundimage.jpg">
+  <img src="./images/frontpage.png">
 </p>
 ¡Hola, soy Carlos! 👋
 
