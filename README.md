@@ -33,6 +33,15 @@ Soy un desarrollador apasionado de la programación y actualmente me encuentro t
 
 [![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/)
 
+## Sistema Operativo
+
+[![GNU/Linux Debian 12](https://img.shields.io/badge/GNU/Linux%20-%20Debian%2012-A81D33?style=flat-square&logo=linux&logoColor=white)](https://www.debian.org/)
+
+También tengo experiencia en:
+
+[![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos/)
+
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
 
 ## Proyectos
 
