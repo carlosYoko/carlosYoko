@@ -19,7 +19,9 @@ Soy un desarrollador apasionado de la programación y actualmente me encuentro t
 
 #### Bases de Datos
 
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)](https://www.mongodb.com/) [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)](https://mariadb.org/) [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)](https://www.mongodb.com/) [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)](https://mariadb.org/) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=flat-square&logoColor=white)](https://www.mysql.com/)
+
+
 
 #### Testing
 
@@ -60,7 +62,9 @@ Puedes ver la aplicación en vivo [aquí](https://book-store-frontend-tan.vercel
 
 Puedes encontrarme en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-fullstack-dev) [![CodeWars](https://www.codewars.com/users/carlosYoko/badges/micro)](https://www.codewars.com/users/carlosYoko) [![Microsoft Learn](https://img.shields.io/badge/Microsoft-Learn-blue?style=flat-square&logo=microsoft-learn)](https://learn.microsoft.com/es-es/users/cgimenez-dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-fullstack-dev) [![CodeWars](https://www.codewars.com/users/carlosYoko/badges/micro)](https://www.codewars.com/users/carlosYoko) [![Microsoft Learn](https://img.shields.io/badge/Microsoft-Learn-blue?style=flat-square&logo=microsoft)](https://learn.microsoft.com/es-es/users/cgimenez-dev/) [![Carlos' Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to)](https://dev.to/carlosyoko)
+
+
 
 
 
