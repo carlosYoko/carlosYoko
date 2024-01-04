@@ -47,7 +47,7 @@ También tengo experiencia en:
 
 
 <details> 
-  <summary><h3>🖳 Proyectos</h3></summary>
+  <summary><h2>🖳 Proyectos</h2></summary>
 
 ### BookStore
 
