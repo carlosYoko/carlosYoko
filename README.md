@@ -45,7 +45,9 @@ También tengo experiencia en:
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
 
-## Proyectos
+
+<details> 
+  <summary><h3>🖳 Proyectos</h3></summary>
 
 ### BookStore
 
@@ -57,6 +59,8 @@ BookStore es un proyecto que desarrollé para gestionar libros (CRUD) utilizando
 - **Backend**: [Repositorio](https://github.com/carlosYoko/book-store-backend)
 
 Puedes ver la aplicación en vivo [aquí](https://book-store-frontend-tan.vercel.app/).
+
+</details>
 
 ## Contacto
 
