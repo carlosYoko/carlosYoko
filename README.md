@@ -19,7 +19,7 @@ Soy un desarrollador apasionado de la programación y actualmente me encuentro t
 
 #### Bases de datos
 
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)](https://www.mongodb.com/) [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)](https://mariadb.org/) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=flat-square&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)](https://www.mongodb.com/) [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)](https://mariadb.org/) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=flat&logoColor=white)](https://www.mysql.com/)
 
 #### Testing
 
@@ -37,9 +37,14 @@ Soy un desarrollador apasionado de la programación y actualmente me encuentro t
 
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 
+#### Herramientas de proyecto
+
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)](https://jira.atlassian.com/)
+
+
 #### Sistemas Operativos
 
-[![GNU/Linux](https://img.shields.io/badge/GNU/Linux-A81D33?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org/) [![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos/) [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
+[![GNU/Linux](https://img.shields.io/badge/GNU/Linux-A81D33?style=flat&logo=linux&logoColor=white)](https://www.linux.org/) [![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos/) [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
 
 
 <details> 
@@ -62,7 +67,7 @@ Puedes ver la aplicación en vivo [aquí](https://book-store-frontend-tan.vercel
 
 Puedes encontrarme en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-fullstack-dev) [![CodeWars](https://www.codewars.com/users/carlosYoko/badges/micro)](https://www.codewars.com/users/carlosYoko) [![Microsoft Learn](https://img.shields.io/badge/Microsoft-Learn-blue?style=flat-square&logo=microsoft)](https://learn.microsoft.com/es-es/users/cgimenez-dev/) [![Carlos' Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to)](https://dev.to/carlosyoko)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-fullstack-dev) [![CodeWars](https://www.codewars.com/users/carlosYoko/badges/micro)](https://www.codewars.com/users/carlosYoko) [![Microsoft Learn](https://img.shields.io/badge/Microsoft-Learn-blue?style=flat&logo=microsoft)](https://learn.microsoft.com/es-es/users/cgimenez-dev/) [![Carlos' Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to)](https://dev.to/carlosyoko)
 
 
 
