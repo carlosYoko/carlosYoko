@@ -4,7 +4,7 @@
 </p>
 ¡Hola, soy Carlos! 👋
 
-Soy un desarrollador apasionado de la programación y actualmente me encuentro trabajando con el stack MERN (MongoDB, Express, React y Node.js).
+Soy un desarrollador apasionado de la programación y actualmente me encuentro trabajando con el stack MERN (MongoDB/MySQL, Express, React y Node.js).
 
 ## Habilidades
 
