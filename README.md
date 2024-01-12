@@ -4,7 +4,7 @@
 </p>
 ¡Hola, soy Carlos! 👋
 
-Soy un desarrollador apasionado de la programación y actualmente me encuentro trabajando con el stack MERN (MongoDB, Express.js, React.js y Node.js).
+Soy un desarrollador apasionado de la programación y actualmente me encuentro trabajando con el stack MERN (MongoDB, Express, React y Node.js).
 
 ## Habilidades
 
@@ -13,7 +13,7 @@ Soy un desarrollador apasionado de la programación y actualmente me encuentro t
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://www.w3.org/Style/CSS/Overview.en.html) [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://reactjs.org/) [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux)](https://redux.js.org/)
 
 #### Backend
- [![Node.js](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)](https://nodejs.org/) [![Express.js](https://img.shields.io/badge/-Expressjs-black?style=flat&logo=express)](https://expressjs.com/) [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+ [![Node.js](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)](https://nodejs.org/) [![Express](https://img.shields.io/badge/-Expressjs-black?style=flat&logo=express)](https://expressjs.com/) [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 
 #### Bases de datos
 
