@@ -21,7 +21,8 @@ Soy un desarrollador apasionado de la programación y actualmente me encuentro t
 
 #### Testing
 
-[![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white")](https://jestjs.io/)
+[![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white")](https://jestjs.io/) [![Supertest](https://img.shields.io/badge/-Supertest-85CC29?style=flat&logo=supertest&logoColor=white)](https://github.com/visionmedia/supertest)
+
 
 #### Control de versiones
 
