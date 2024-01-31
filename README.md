@@ -45,22 +45,9 @@ Soy un desarrollador apasionado de la programación y actualmente me encuentro t
 
 [![GNU/Linux](https://img.shields.io/badge/GNU/Linux-A81D33?style=flat&logo=linux&logoColor=white)](https://www.linux.org/) [![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos/) [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
 
+#### Multiplexor de terminal
+[![Tmux](https://img.shields.io/badge/-tmux-1BB91F?style=flat&logo=tmux&logoColor=white)](https://github.com/tmux/tmux)
 
-<details> 
-  <summary><h2>📁 Proyectos</h2></summary>
-
-### BookStore
-
-[![Book Store](./images/bookstore.png)](https://book-store-frontend-tan.vercel.app/)
-
-BookStore es un proyecto muy básico que desarrollé para gestionar libros (CRUD) utilizando el stack MERN.
-
-- **Frontend**: [Repositorio](https://github.com/carlosYoko/book-store-frontend)
-- **Backend**: [Repositorio](https://github.com/carlosYoko/book-store-backend)
-
-Puedes ver la aplicación en vivo [aquí](https://book-store-frontend-tan.vercel.app/).
-
-</details>
 
 ## Contacto
 
