@@ -53,7 +53,7 @@ Soy un desarrollador apasionado de la programación y actualmente me encuentro t
 
 Puedes encontrarme en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-fullstack-dev) [![CodeWars](https://www.codewars.com/users/carlosYoko/badges/micro)](https://www.codewars.com/users/carlosYoko) [![Microsoft Learn](https://img.shields.io/badge/Microsoft-Learn-blue?style=flat&logo=microsoft)](https://learn.microsoft.com/es-es/users/cgimenez-dev/) [![Carlos' Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to)](https://dev.to/carlosyoko)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-fullstack-dev) [![Microsoft Learn](https://img.shields.io/badge/Microsoft-Learn-blue?style=flat&logo=microsoft)](https://learn.microsoft.com/es-es/users/cgimenez-dev/) [![CodeWars](https://www.codewars.com/users/carlosYoko/badges/micro)](https://www.codewars.com/users/carlosYoko) [![Codingame Profile](https://img.shields.io/badge/Codingame-000000?style=flat&logo=codingame)](https://www.codingame.com/profile/a8d3f893ea9ff9b84235d4c0238224b52914795) [![Carlos' Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to)](https://dev.to/carlosyoko)
 
 
 
