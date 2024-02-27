@@ -1,10 +1,16 @@
 
 <p align="center">
-  <img src="/images/front.png">
+  <img src="/images/header-image.png">
 </p>
-¡Hola, soy Carlos! 👋
 
-Soy un desarrollador apasionado de la programación y actualmente me encuentro trabajando con el stack MERN (MongoDB/MySQL, Express, React y Node.js).
+¡Hola a todos! 👋
+
+Soy Carlos, un desarrollador apasionado de la programación desde el 2022, con experiencia trabajando en proyectos utilizando el stack MERN (MongoDB/MySQL, Express, React y Node.js). 
+
+Durante mi tiempo como desarrollador, he tenido la oportunidad de trabajar en una variedad de proyectos donde he aplicado las mejores prácticas y técnicas avanzadas de desarrollo.
+como patrones de diseño, el uso de arquitecturas limpias (clean architectures), código limpio (clean code), principios SOLID, testing, virtualización de entornos y la integración continua. Estoy comprometido con la calidad del código y me esfuerzo por seguir aprendiendo y mejorando mis habilidades como desarrollador.
+
+¡Gracias por visitar mi perfil!
 
 ## Habilidades
 
