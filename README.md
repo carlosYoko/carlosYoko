@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="/images/header-image.png">
+  <img src="/images/main.png">
 </p>
 
 ¡Hola a todos! 👋
