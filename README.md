@@ -7,3 +7,4 @@ Here you can see my social links.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cgimenez-dev) 
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft-Learn-blue?style=flat&logo=microsoft)](https://learn.microsoft.com/es-es/users/cgimenez-dev/) 
 [![CodeWars](https://www.codewars.com/users/carlosYoko/badges/micro)](https://www.codewars.com/users/carlosYoko)
+[![Notion](https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=notion&logoColor=black)](https://terrific-espadrille-05b.notion.site/Apuntes-b1e0e9569e384ad99cdef331d950f7a0)
